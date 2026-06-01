@@ -1,0 +1,19 @@
+[
+  {
+    "name": "greet",
+    "steps": [
+      { "text": "hello world" },
+      { "key": "ENTER" },
+      { "delayMs": 100 },
+      { "text": "from macropad" },
+      { "key": "ENTER" }
+    ]
+  },
+  {
+    "name": "save",
+    "steps": [
+      { "key": "CTRL" },
+      { "key": "S" }
+    ]
+  }
+]
